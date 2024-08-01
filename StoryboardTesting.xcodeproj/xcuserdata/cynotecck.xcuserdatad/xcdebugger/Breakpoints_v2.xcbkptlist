@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "74E2FCD5-E87C-4B98-AE95-849FFDF3C781"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B8F83B0-29E0-462C-82AC-D966E8AA7DA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoryboardTesting/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B8F83B0-29E0-462C-82AC-D966E8AA7DA4 - ac889b12e207b3dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoryboardTesting.ViewController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "StoryboardTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cynotecck/Desktop/StoryboardTesting/StoryboardTesting/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44">
+               </Location>
+               <Location
+                  uuid = "0B8F83B0-29E0-462C-82AC-D966E8AA7DA4 - ac889b12e207b3dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoryboardTesting.ViewController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "StoryboardTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cynotecck/Desktop/StoryboardTesting/StoryboardTesting/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F41F53E2-B89F-4C33-8BC1-F005CA8B65C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoryboardTesting/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "downloadImage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F41F53E2-B89F-4C33-8BC1-F005CA8B65C9 - 6e122068678f1675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;Swift.Optional&lt;__C.UIImage&gt;&gt;) -&gt; () in StoryboardTesting.ViewController.downloadImage() -&gt; ()"
+                  moduleName = "StoryboardTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cynotecck/Desktop/StoryboardTesting/StoryboardTesting/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27">
+               </Location>
+               <Location
+                  uuid = "F41F53E2-B89F-4C33-8BC1-F005CA8B65C9 - 6e122068678f1675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;Swift.Optional&lt;__C.UIImage&gt;&gt;) -&gt; () in StoryboardTesting.ViewController.downloadImage() -&gt; ()"
+                  moduleName = "StoryboardTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cynotecck/Desktop/StoryboardTesting/StoryboardTesting/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
